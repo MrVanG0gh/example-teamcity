@@ -17,6 +17,6 @@ public class Welcomer{
 	}
 	// My new method ()
 	public String sayAJoke(){
-	    return "It`s a joke, hunter"
+	    return "It`s a joke, hunter";
 	}
 }
