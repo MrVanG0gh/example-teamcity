@@ -15,7 +15,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
-	// My new method
+	// My new method ()
 	public String sayAJoke(){
 	    return "It`s a joke, hunter"
 	}
